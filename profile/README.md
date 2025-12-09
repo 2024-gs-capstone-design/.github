@@ -16,19 +16,19 @@
 
 ### 문서 변경 사항 기록
 
-#### 1. **[시스템 정의서](https://github.com/2024-gs-capstone-design/.github/blob/main/docs/2-03-01-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A0%95%EC%9D%98%EC%84%9C.pdf)**
+#### 1. **[시스템 정의서](https://github.com/2024-gs-capstone-design/.github/blob/main/docs/%EA%B1%B4%EC%8A%B9-02-12-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A0%95%EC%9D%98%EC%84%9C.pdf)**
 | 날짜       | 변경 내용                        | 변경자   |
 |------------|----------------------------------|----------|
 | 2024-10-01 | 주제 변경으로 인한 재작성         | 고건영   |
 | 2024-10-02 | 글씨체 등 서식 수정               | 유승환   |
 
-#### 2. **[요구사항 정의서](https://github.com/2024-gs-capstone-design/.github/blob/main/docs/2-03-02-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C.pdf)**
+#### 2. **[요구사항 정의서](https://github.com/2024-gs-capstone-design/.github/blob/main/docs/%EA%B1%B4%EC%8A%B9-02-12-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C.pdf)**
 | 날짜       | 변경 내용                        | 변경자   |
 |------------|----------------------------------|----------|
 | 2024-09-15 | 초기 요구사항 목록 작성           | 유승환   |
 | 2024-10-03 | 주제 변경으로 인한 재작성         | 오승주   |
 
-#### 3. **[프로젝트 관리 계획서](https://github.com/2024-gs-capstone-design/.github/blob/main/docs/2-03-03-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B4%80%EB%A6%AC%EA%B3%84%ED%9A%8D%EC%84%9C.pdf)**
+#### 3. **[프로젝트 관리 계획서](https://github.com/2024-gs-capstone-design/.github/blob/main/docs/%EA%B1%B4%EC%8A%B9-02-12-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B4%80%EB%A6%AC%EA%B3%84%ED%9A%8D%EC%84%9C.pdf)**
 | 날짜       | 변경 내용                        | 변경자   |
 |------------|----------------------------------|----------|
 | 2024-09-26 | 초안 작성                         | 고건영   |
@@ -36,34 +36,41 @@
 | 2024-10-01 | 리스크 관리 방안 추가             | 오승주   |
 | 2024-10-03 | 주제 변경으로 재작성              | 유승환   |
 
-#### 4. **[1차 빌드 개발 계획서](https://github.com/2024-gs-capstone-design/.github/blob/main/docs/2-03-04-1%EC%B0%A8%EB%B9%8C%EB%93%9C%EA%B0%9C%EB%B0%9C%EA%B3%84%ED%9A%8D%EC%84%9C.pdf)**
+#### 4. **[1차 빌드 개발 계획서](https://github.com/2024-gs-capstone-design/.github/blob/main/docs/%EA%B1%B4%EC%8A%B9-02-12-1%EC%B0%A8%EB%B9%8C%EB%93%9C%EA%B3%84%ED%9A%8D%EC%84%9C.pdf)**
 | 날짜       | 변경 내용                        | 변경자   |
 |------------|----------------------------------|----------|
 | 2024-10-05 | 일정 계획 초안 작성               | 오승주   |
 | 2024-10-06 | 기능 구체화 및 개발대상 선정       | 고건영   |
 | 2024-10-07 | 일정 계획 및 역할 수정            | 유승환   |
 
-#### 5. **[1차 빌드 개발 명세서](https://github.com/2024-gs-capstone-design/.github/blob/main/docs/2-03-05-1%EC%B0%A8%EB%B9%8C%EB%93%9C%EA%B0%9C%EB%B0%9C%EB%AA%85%EC%84%B8%EC%84%9C-kor.pdf)**
+#### 5. **[2차 빌드 개발 계획서](https://github.com/2024-gs-capstone-design/.github/blob/main/docs/%EA%B1%B4%EC%8A%B9-02-12-2%EC%B0%A8%EB%B9%8C%EB%93%9C%EA%B3%84%ED%9A%8D%EC%84%9C.pdf)**
 | 날짜       | 변경 내용                        | 변경자   |
 |------------|----------------------------------|----------|
 | 2024-11-04 | 개발 개요 및 usecase 작성         | 유승환   |
 | 2024-11-05 | GUI 및 Database, File design 추가 | 오승주   |
 | 2024-11-07 | 1차빌드 테스트 항목 추가           | 고건영   |
 
-#### 6. **[2차 빌드 개발 계획서](https://github.com/2024-gs-capstone-design/.github/blob/main/docs/2-03-06-2%EC%B0%A8%EB%B9%8C%EB%93%9C%EA%B3%84%ED%9A%8D%EC%84%9C.pdf)**
+#### 6. **[3차 빌드 개발 계획서](https://github.com/2024-gs-capstone-design/.github/blob/main/docs/%EA%B1%B4%EC%8A%B9-02-12-3%EC%B0%A8%EB%B9%8C%EB%93%9C%EA%B3%84%ED%9A%8D%EC%84%9C.pdf)**
 | 날짜       | 변경 내용                        | 변경자   |
 |------------|----------------------------------|----------|
 | 2024-11-11 | 초안 작성                        | 고건영   |
 | 2024-11-13 | 개발 일정 및 개발 환경 추가         | 유승환   |
 
-#### 7. **[2차 빌드 개발 명세서](https://github.com/2024-gs-capstone-design/.github/blob/main/docs/2-03-07-2%EC%B0%A8%EB%B9%8C%EB%93%9C%EA%B0%9C%EB%B0%9C%EB%AA%85%EC%84%B8%EC%84%9C-kor.pdf)**
+#### 7. **[4차 빌드 개발 계획서](https://github.com/2024-gs-capstone-design/.github/blob/main/docs/%EA%B1%B4%EC%8A%B9-02-12-4%EC%B0%A8%EB%B9%8C%EB%93%9C%EA%B3%84%ED%9A%8D%EC%84%9C.pdf)**
 | 날짜       | 변경 내용                        | 변경자   |
 |------------|----------------------------------|----------|
 | 2024-12-03 | 초안 작성                        | 고건영   |
 
-#### 8. **[프로젝트 결과 보고서](https://github.com/2024-gs-capstone-design/.github/blob/main/docs/2-03-08-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)**
+#### 8. **[5차 빌드 개발 계획서](https://github.com/2024-gs-capstone-design/.github/blob/main/docs/%EA%B1%B4%EC%8A%B9-02-12-5%EC%B0%A8%EB%B9%8C%EB%93%9C%EA%B3%84%ED%9A%8D%EC%84%9C.pdf)**
+| 날짜       | 변경 내용                        | 변경자   |
+|------------|----------------------------------|----------|
+| 2024-12-03 | 초안 작성                        | 유승환   |
+
+#### 9. **[프로젝트 결과 보고서](https://github.com/2024-gs-capstone-design/.github/blob/main/docs/%EA%B1%B4%EC%8A%B9-02-12-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)**
 | 날짜       | 변경 내용                        | 변경자   |
 |------------|----------------------------------|----------|
 | 2024-12-03 | 초기 작성                        | 고건영   |
 | 2024-12-03 | 시스템 구성도 디자인 추가         | 유승환   |
 | 2024-12-04 | 글씨체 등 서식 수정               | 오승주   |
+
+### 10. **[그 외 문서](https://github.com/2024-gs-capstone-design/.github/tree/main/docs)**
